@@ -1,7 +1,3 @@
-# 💫 About Me:
-I'm currently working on<br>* Contributing to Open Source Connect.<br>* Building high-performance, scalable applications using my expertise in Data Structures and Algorithms.<br><br>I'm looking to collaborate on<br>* Software development projects where I can help solve real-world problems.<br>* High-performance applications that leverage Java and C++.<br><br>I'm looking for help with<br>* Finding a Software Development internship opportunity.<br><br>I'm currently learning<br>* As a Computer Science student at G.B. Pant Govt. Engineering College, I'm deepening my knowledge of core concept.<br>* I'm enhancing my skills in Generative AI, Python, and Java.<br><br>Ask me about<br>* Java, C++, Data Structures, and Algorithms.<br>* Generative AI and Prompt Design in Vertex AI.<br>* Solving complex problems with efficient code.<br><br>Fun fact<br>* This information is not available in the provided document.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhavsaini2) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vaibhavsaini_1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaibhavsaini2409@gmail.com) 
 
